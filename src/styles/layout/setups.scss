@@ -1,6 +1,6 @@
 html {
-  height: 100%;
-  font-size: 16px;
+	height: 100%;
+	font-size: 16px;
 }
 
 body {
@@ -17,17 +17,17 @@ body {
 	max-width: 1920px;
 	height: 100%;
 	margin: 0 auto;
-  	display: flex;
+	display: flex;
 	flex-direction: column;
 }
 
-.main-container {
+.main_container {
 	flex-grow: 1;
 	flex-shrink: 0;
 	flex-basis: auto;
 }
 
-.container-inner {
+.container_inner {
 	max-width: 1280px;
 	margin: 0 auto;
 	padding: 0 10px;
